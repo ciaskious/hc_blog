@@ -16,6 +16,13 @@ main {
     max-width: 900px;
 }
 
+
+/*text size*/
+
+.text-justify{
+  font-size:16px;
+}
+
 /*footer*/
 
 .copyright {
