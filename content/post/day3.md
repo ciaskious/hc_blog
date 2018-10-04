@@ -20,9 +20,9 @@ Until now I haven't figured out what was wrong, I just couldn't waste any more t
 
 TIP! If you end up questioning your sanity: never  ever forget to change the baseUrl in your config file once you deploy your site ;)
 
-But what gave today more meaning to this blog and my apprenticeship, is my curriculum. Here, you are given the freedom to learn anything that excites you, it is based on your interests. It is confusing at the beginning but self-organization will save you time. The backlog will always be huge, but short sprints and good planning will be the stars of the semester. Your mentor is by your side of course, you are not alone!
+But what gave today more meaning to this blog and my apprenticeship, is my curriculum. Here you are given the freedom to learn anything that excites you, it is based on your interests. It is confusing at the beginning but self-organization will save you time. The backlog will always be huge, but short sprints and good planning will be the stars of the semester. Your mentor is by your side of course, you are not alone!
 
-So, Scala it is and the adventure's beginning tomorrow... 
+So, Scala it is and the adventure's beginning tomorrow...
 
 \m/ \m/
 
