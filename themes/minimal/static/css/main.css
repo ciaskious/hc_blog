@@ -10,11 +10,10 @@ body {
 }
 
 main {
-    margin: 50px 20px 20px 70px;
-    border: 20px;
-    padding: 200px;
+    margin: 0px 0px 0px 70px;
+    padding: 150px;
     flex: 1 0 auto;
-    max-width: 750px;
+    max-width: 900px;
 }
 
 /*footer*/

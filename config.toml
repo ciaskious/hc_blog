@@ -1,13 +1,13 @@
 baseURL = "https://focused-fermat-5e8dbc.netlify.com"
 languageCode = "en-us"
-title = "Anastasia | HC Apprenticeship Blog"
+title = "Anastasia 💻"
 theme = "minimal"
 disqusShortname = "anaskaloudi" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
     author = "Anastasia Kaloudi"
-    description = "Personal blog theme powered by Hugo"
+    description = "| My HolidayCheck Apprenticeship Blog - Stay Tuned! "
     githubUsername = "#ciaskious"
     accent = "pink"
     showBorder = true
