@@ -2,6 +2,7 @@
 title: "Pilot: Day 1 & 2"
 date: 2018-10-02T16:35:41+02:00
 draft: false
+tags: ["apprenticeship", "on-boarding", "HolidayCheck"]
 ---
 
 
