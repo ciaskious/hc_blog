@@ -18,7 +18,7 @@ Pfff...I asked for help but no change could save me.
 
 Until now I haven't figured out what was wrong, I just couldn't waste any more time on stuff I couldn't fix. I played it safe (unusual) and chose a theme that several people have used here before... because it worked for them!
 
-TIP! If you end up questioning your sanity: never  ever forget to change the baseUrl in your config file once you deploy your site ;)
+>TIP! If you end up questioning your sanity: never  ever forget to change the baseUrl in your config file once you deploy your site ;)
 
 But what gave today more meaning to this blog and my apprenticeship, is my curriculum. Here you are given the freedom to learn anything that excites you, it is based on your interests. It is confusing at the beginning but self-organization will save you time. The backlog will always be huge, but short sprints and good planning will be the stars of the semester. Your mentor is by your side of course, you are not alone!
 
