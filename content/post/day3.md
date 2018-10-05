@@ -2,6 +2,7 @@
 title: "Day3"
 date: 2018-10-04T11:39:15+02:00
 draft: false
+tags: ["hugo", "apprenticeship"]
 ---
 
 The blog is up and running...but some blood was shed...for nothing!
