@@ -1,7 +1,7 @@
 ---
 title: "Day5: Getting started"
 date: 2018-10-08
-tags: ["mondays", "vim", "ensime","scala"]
+tags: ["mondays", "vim", "ensime","scala","learnings"]
 draft: false
 ---
 
