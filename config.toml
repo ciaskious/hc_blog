@@ -2,7 +2,7 @@ baseURL = "https://ciatastrophe.netlify.com"
 languageCode = "en-us"
 title = "Anastasia 💻"
 theme = "minimal
-disqusShortname = "anaskaloudi""
+disqusShortname = "anaskaloudi"
 googleAnalytics = ""
  
 [blackfriday]
