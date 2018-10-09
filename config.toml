@@ -1,8 +1,13 @@
 baseURL = "https://ciatastrophe.netlify.com"
 languageCode = "en-us"
 title = "Anastasia 💻"
-theme = "minimal"
+theme = "minimal
+disqusShortname = "anaskaloudi""
 googleAnalytics = ""
+ 
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
 
 [params]
     author = "Anastasia Kaloudi"
