@@ -2,7 +2,7 @@
 title: "Not an editor command: Day8"
 date: 2018-10-11
 tags: ["vim", "apprenticeship"]
-draft: true
+draft: false
 ---
 
 ### Vim and Neovim
