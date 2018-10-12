@@ -2,7 +2,7 @@
 title: "Day9: TGIF and Data Stuctures"
 date: 2018-10-12
 tags: ["scala"]
-draft: false
+draft: true
 ---
 
 ### val daysOfTheWeek = Map("Friday" -> "YAY")
