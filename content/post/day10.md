@@ -18,7 +18,8 @@ On Friday though, I left something behind for this week's first post...
 Lists were not included in the 4th chapter but, as I said, the post was a recap on Data Structures.  
 So, in 4 words: Lists are dynamic Arrays. But not exactly...
 In Scala, lists are:  
-* Immutable. The values of the elements cannot be modified.
+
+* Immutable. The values of the elements cannot be modified.  
 * Linked lists. This means we cannot do binary search, the elements have to be accessed sequentially.
 
 They consist of nodes with two parts: One is the data field and the other one is a pointer to the next node.
