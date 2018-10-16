@@ -2,7 +2,7 @@
 title: "Day11: The yearly retrospective (?)"
 date: 2018-10-16
 tags: ["apprenticeship", "agile"]
-draft: true
+draft: false
 ---
  ![beyonce bday meme](https://www.happy-birthday-to-you.net/wp-content/uploads/2018/02/beyonce-birthday-meme.jpg)
 
