@@ -28,16 +28,16 @@ __Write a class **BankAccount** with methods **deposit** and **withdraw**, and a
 import org.scalatest.{FlatSpec, Matchers}
 
 class BankAccountTest extends FlatSpec with Matchers {
-      "BankAccount" should " do stuff " in {
-        val bankAcc = new BankAccount(80)
-
+  val bankAcc = new BankAccount(80)
+      "BankAccount Balance" should "remain the same" in {
         bankAcc.withdraw(90)
-        bankAcc.currentBalance should be(80)
-
-        bankAcc.withdraw(60)
-        bankAcc.currentBalance should be(20)
-
-        bankAcc.deposit(40)
+        bankAcc.currentBalance should be(80) }
+       it should "subtract the amount requested" in {
+         bankAcc.withdraw(60)
+         bankAcc.currentBalance should be(20)
+       }
+        it should "add the amount deposited" in{
+          bankAcc.deposit(40)
         bankAcc.currentBalance should be(60)
       }
 }
