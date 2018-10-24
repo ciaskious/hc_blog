@@ -1,8 +1,8 @@
 ---
-title: "Rss_test"
+title: "Day15: RSS Y U NO WORK?"
 date: 2018-10-24
-tags: []
+tags: ["apprenticeship"]
 draft: false
 ---
 
-rss teeeeeeest
+#
