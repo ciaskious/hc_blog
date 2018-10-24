@@ -39,10 +39,10 @@ rssLimit = 10
     weight = 2
 
 [[menu.main]]
-name = “RSS”
+name = "RSS"
 weight = 99
-identifier = “rss”
-url = “/feed.xml”
+identifier = "rss"
+url = "/feed.xml"
 
 
 # Social icons to be shown on the right-hand side of the navigation bar
