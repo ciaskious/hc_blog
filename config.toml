@@ -5,6 +5,13 @@ theme = "minimal"
 disqusShortname = "https-ciatastrophe-netlify-com"
 googleAnalytics = ""
 
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "feed"
+
+rssLimit = 10
+
 [blackfriday]
   plainIDAnchors = true
   hrefTargetBlank = true
@@ -30,6 +37,12 @@ googleAnalytics = ""
     url = "/post/"
     name = "Posts"
     weight = 2
+
+[[menu.main]]
+name = “RSS”
+weight = 99
+identifier = “rss”
+url = “/feed.xml”
 
 
 # Social icons to be shown on the right-hand side of the navigation bar
