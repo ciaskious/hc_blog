@@ -1,5 +1,5 @@
 ---
-title: "Day15 & 16: RSS and baby steps"
+title: "Day17 & 18: RSS and baby steps"
 date: 2018-10-25
 tags: ["apprenticeship", "scala"]
 draft: false
