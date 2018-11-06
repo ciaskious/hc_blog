@@ -27,3 +27,5 @@ Well, I had the impression my way is hard enough already! I found out about [Zed
 > The biggest learnings, the ones you never forget, don't come when we know the rules but when we challenge ourselves and play with them ;)
 
 Just get to know the basic concepts and in parallel struggle by implementing them in your IDE/terminal/piece of paper.
+
+[Song of the day] (https://www.youtube.com/watch?v=-o2FTtRNycU)
