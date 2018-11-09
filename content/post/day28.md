@@ -9,9 +9,9 @@ Days go by like seconds... I owe my blog 3 posts already - I created the drafts 
 
 ![batman slap](/images/batman_slap.jpg)  
 
-There was a learning this week... ``It is nice to mix different stuff to learn together BUT NOT IN ONE DAY! ``This is the major reason I didn't finish the previous posts - I ended up so confused at the of the day and thought I would get it better the next day. Weeeeeell, no!  
+There was a learning this week... ``It is nice to mix different stuff to learn together BUT NOT IN ONE DAY! ``This is the major reason I didn't finish the previous posts - I ended up so confused at the end of the day and thought I would make it better the next day. Weeeeeell, no!  
 
-I am not gonna make a "finish by then-or-that-time your post", I am just gonna make sure that everyday I am able to word my learning, without thinking of how people would judge it. Just kidding, of course I care! During the first days of the apprenticeship, I thought it was just me and my baby blog #NOT So, of course I care if people like it/ find it useful /enjoy it /have fun with it... To be honest a greek blog is a secret dream that I have always had - the only thing (or excuse) that stops me is time. But enough with the Friday confessions, let's spice this day up with some curry-ing (Ha-Ha).
+I am not gonna make a "finish by then-or-that-time your post" rule, I am just gonna make sure that everyday I am able to word my learning, without thinking of how people would judge it. Just kidding, of course I care! During the first days of the apprenticeship, I thought it was just me and my baby blog #NOT So, of course I care if people like it/ find it useful /enjoy it /have fun with it... To be honest a greek blog is a secret dream that I have always had - the only thing (or excuse) that stops me is time. But enough with the Friday confessions, let's spice this day up with some curry-ing (Ha-Ha).
 
 ### Currying
 
@@ -40,7 +40,8 @@ I always doubt that maths can help me visualize and understand anything but [Wik
 |   That is, h takes an argument from X and returns a function that maps Y to Z.  
 |   It is defined by  
 |  
-|     h(x)(y)=f(x,y)}  
+|     h(x)(y)=f(x,y)
+|
 |   for x from X and y from Y. We then also write  
 |  
 |         curry(f)=h  
