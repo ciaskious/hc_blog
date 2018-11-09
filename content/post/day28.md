@@ -2,7 +2,7 @@
 title: "Day28: Spicing it up"
 date: 2018-11-09
 tags: ["Scala", "currying"]
-draft: true
+draft: false
 ---
 
 Days go by like seconds... I owe my blog 3 posts already - I created the drafts and I am still not able to go back to them, proofread them and make them descent for posting...  
