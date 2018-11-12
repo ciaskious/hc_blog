@@ -17,7 +17,7 @@ No one thought I would ever become a Software Engineer... I didn't think either,
 
 I can imagine how discouraging the environment must have been for most of the girls my age back then. I was forced to study something that I didn't choose, just because "IT and Engineering have too many men already doing their job well enough". But hopefully we were only the exceptions. And I have found many of these lovely exceptions around me and I am so proud of them that believed they can try it and succeed when nobody else did.  
 
-I already accidentally devoted my whole post to this topic, so I will just finish it. History has showed me that the more you doubt yourself, the less chances you get to make the dream come true. Personally, once I concentrated on what I love and chased the dream, I feel I created the doors that were missing in my path. The problem is that women fear and this is what I am fighting against.  
+I already accidentally devoted my whole post to this topic, so I will just finish it. History has showed me that the more you doubt yourself, the less chances you get to make the dream come true. Personally, once I concentrated on what I love and chased the dream, I feel I created the doors that were missing in my path. The problem is that women fear failure and this is what I am fighting against.  
 
 But in parallel I will fight my personal doubts on coding with a pet project. This is gonna be my Scala baby and it is gonna an endless failing/stress-free experimentation.    
 
